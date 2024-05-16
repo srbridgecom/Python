@@ -1,3 +1,9 @@
+#srbridge.com
+#https://github.com/srbridgecom
+#https://www.facebook.com/srbridge
+#https://www.linkedin.com/in/r-bridge-3baa332a4/
+#Python
+
 #Set 1, Basic variables and display them
 myString1 = "test 1 "
 myString2 = "test 2"
