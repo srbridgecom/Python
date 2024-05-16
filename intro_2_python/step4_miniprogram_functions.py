@@ -1,4 +1,11 @@
+#srbridge.com
+#https://github.com/srbridgecom
+#https://www.facebook.com/srbridge
+#https://www.linkedin.com/in/r-bridge-3baa332a4/
+#Python
+
 #The following uses default values for variables
+#Mini Program for Functions
 def welcome(name='learner', location='this area'):
     print("Hi", name, "welcome to", location)
 
