@@ -16,7 +16,7 @@
 #    b = int(input())
 
 #WHAT IS THIS CRAP? why even give us any starting code, it's confusing.
-#I can tell you a = int(input()) means Cariable A is a integer and get the input from the keybord
+#I can tell you a = int(input()) means Variable A is a integer and get the input from the keybord
 #but it doesn't even display a message or instruction on input... like really? you will never see that in the real world, ever.
 
 #let's Being
@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
 if __name__ == '__main__':
     a = int(3)
-    b = int (5)
+    b = int(5)
     print(a + b)
     print(a - b)
     print(a * b)
