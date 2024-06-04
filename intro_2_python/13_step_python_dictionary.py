@@ -208,14 +208,14 @@ first_dict == second_dict
 #Built-in Python dictionary methods
 #Each dictionary inherits some handy built-in functions, as listed in the following table:
 
-Method	                    What is does	                                                            Example
-clear()	                    Remove all key/value pairs (empty the dictionary)	                        phone_numbers.clear()
-get(key)	                Get a single item with the given key, with an optional default value	    phone_numbers.get('Martha', 'Unknown person')
-items()	                    Returns a view object containing key-value pairs from the dictionary	    phone_numbers.items()
-keys()	                    Returns a view object with a list of all keys from the dictionary	        hone_numbers.keys()
-values()	                Returns a view_object with a list of all values from the dictionary	        phone_numbers.values()
-pop(key, default_value)	    Returns and removes the element with the specified key	                    phone_numbers.pop('Martha')
-popitem()	                Returns and removes the last inserted item (Python 3.7+) or a random item	phone_numbers.popitem()
-setdefault(key, value)	    Returns the value of the specified key. If the key does not exist, it’s 
-                            inserted with the given value	                                            phone_numbers.setdefault('John Doe', 1234)
-update(iterable)	        Add all pairs from given iterable, e.g. a dictionary	                    Add all pairs from a given iterable, e.g. a dictionary
+#Method	                    What is does	                                                            Example
+#clear()	                Remove all key/value pairs (empty the dictionary)	                        phone_numbers.clear()
+#get(key)	                Get a single item with the given key, with an optional default value	    phone_numbers.get('Martha', 'Unknown person')
+#items()	                Returns a view object containing key-value pairs from the dictionary	    phone_numbers.items()
+#keys()	                    Returns a view object with a list of all keys from the dictionary	        hone_numbers.keys()
+#values()	                Returns a view_object with a list of all values from the dictionary	        phone_numbers.values()
+#pop(key, default_value)	Returns and removes the element with the specified key	                    phone_numbers.pop('Martha')
+#popitem()	                Returns and removes the last inserted item (Python 3.7+) or a random item	phone_numbers.popitem()
+#setdefault(key, value)	    Returns the value of the specified key. If the key does not exist, it’s 
+#                            inserted with the given value	                                            phone_numbers.setdefault('John Doe', 1234)
+#update(iterable)	        Add all pairs from given iterable, e.g. a dictionary	                    Add all pairs from a given iterable, e.g. a dictionary
